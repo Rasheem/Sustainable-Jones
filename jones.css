@@ -1,0 +1,65 @@
+body {
+  font-family: "EB Garamond" , serif ; 
+  font-size: 15px; 
+  color: #000000;
+  margin: 0;
+}
+
+
+.container-fluid {
+  height: 75px;
+
+}
+
+.container {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: #99ea99;
+  border-width: 8px;
+  padding: 0;
+  width: 100%;
+}
+
+.green-container {
+  background-color: #008000;
+  color: #99ea99;
+  text-align: center;
+  border-bottom-style: solid;
+  border-color: #99ea99;
+  border-width: 8px;
+}
+
+#services {
+  padding-top: 20px;
+  text-align: center;
+  margin: 0px;
+
+}
+
+#services li {
+  display: inline;
+  padding-left: 50px;
+ padding-top: 10px;
+}
+
+.team-wrapper {
+  overflow: hidden;
+}
+
+.team-wrapper .row {
+  text-align: center;
+  font-size: 13px;
+}
+
+.team-wrapper h1 {
+  padding-left: 30px;
+}
+#contact {
+  padding-top: 50px;
+  text-align: center;
+}
+
+#contact li {
+  display: inline;
+  float: right;
+}
